@@ -16,3 +16,5 @@ var plusOne = function(digits) {
 };
 
 console.log(plusOne([299]));
+console.log(plusOne([9]));
+console.log(plusOne([1,2,3]));
